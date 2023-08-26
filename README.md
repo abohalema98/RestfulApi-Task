@@ -10,9 +10,9 @@ This is a basic Express application that demonstrates how to create a RESTful AP
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/express-app.git
-   cd express-app
+```
+git clone https://github.com/abohalema98/RestfulApi-Task
+cd RestfulApi-Task
 
 ```
 PORT=3000
