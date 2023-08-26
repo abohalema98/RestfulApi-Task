@@ -13,12 +13,13 @@ This is a basic Express application that demonstrates how to create a RESTful AP
 ```
 git clone https://github.com/abohalema98/RestfulApi-Task
 cd RestfulApi-Task
-
+```
 ```
 PORT=3000
 TOKEN_SECRET=your-secret-key
 MONGODB_URI=your-mongodb-uri
 ```
+
 ### Features
 ```
 User authentication using JWT
